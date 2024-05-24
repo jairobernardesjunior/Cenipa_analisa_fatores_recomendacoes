@@ -1,5 +1,5 @@
 # Cenipa_analisa_fatores_recomendacoes
-![Imagem de Aviao](https://github.com/jairobernardesjunior/Cenipa_analisa_fatores_recomendacoes/blob/main/aviao4.jpg)
+![Imagem de Aviao](https://github.com/jairobernardesjunior/Cenipa_analisa_fatores_recomendacoes/blob/main/aviao4_b.jpg)
  
 ## Faz análise dos dados de fatores contribuintes e recomendações de segurança em acidentes aeronáuticos
 
